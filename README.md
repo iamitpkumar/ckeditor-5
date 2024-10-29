@@ -1,13 +1,9 @@
-#CKEditor 5 Simple Integration
-This repository provides a straightforward example of integrating CKEditor 5, a powerful and customizable rich text editor, into a web application. The code here demonstrates a minimal setup to get CKEditor 5 running quickly and easily, making it a great starting point for developers who want to embed rich text editing capabilities in their projects.
+CKEditor 5 classic editor build v36.0.0
+=======================================
 
-#Features
-Simple Setup: Integrate CKEditor 5 with minimal configuration.
-Customizable Toolbar: Basic toolbar options included, easily adjustable to your needs.
-Modular: Import only the essentials; CKEditor’s modular design makes it flexible for any project size.
+In order to start using CKEditor 5 Builds, configure or customize them, please visit http://docs.ckeditor.com/ckeditor5/latest/builds/index.html
 
-#Installation
-Clone the repository and follow the steps to set up CKEditor 5 in your application.
+## License
 
-#Usage
-Detailed usage instructions and customization options are provided in the documentation.
+Licensed under the terms of [GNU General Public License Version 2 or later](http://www.gnu.org/licenses/gpl.html).
+For full details about the license, please check the LICENSE.md file.
